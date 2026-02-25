@@ -19,11 +19,10 @@ This document serves as the step-by-step roadmap for building the MVP of the Leg
 - [x] Create layout wrappers for authenticated vs. unauthenticated pages.
 
 ## Phase 3: Authentication & Authorization (Core)
-- [ ] Integrate Authentication provider (e.g., Supabase Auth, Firebase Auth, NextAuth).
-- [ ] Implement Sign-up/Registration flow (Email/Password, Google/Apple OAuth).
-- [ ] Implement Login/Sign-in flow.
-- [ ] Implement Password Reset flow.
-- [ ] Configure Role-Based Access Control (RBAC):
+- [x] Integrate Authentication provider (e.g., Supabase Auth, Firebase Auth, NextAuth).
+- [x] Create Login, Registration, and Password Reset UI pages.
+- [x] Implement role-based redirection (`/client-dashboard`, `/lawyer-dashboard`).
+- [x] Secure API routes and specific pages with middleware (Role-Based Access Control). (RBAC):
     - [ ] Role: `Admin` (Full system access)
     - [ ] Role: `Lawyer` (Access to Private Track clients and assigned NGO cases)
     - [ ] Role: `Client` (View-only access for personal case tracking)
