@@ -3,6 +3,7 @@ import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { createClient } from '@/utils/supabase/server'
 import { redirect } from 'next/navigation'
+import Link from 'next/link'
 
 export default async function ClientDashboard() {
     const supabase = createClient()
@@ -32,8 +33,11 @@ export default async function ClientDashboard() {
                     <CardHeader>
                         <CardTitle>Welcome, {profile?.full_name || user.email}</CardTitle>
                     </CardHeader>
-                    <CardContent>
+                    <CardContent className="space-y-4">
                         <p className="text-muted-foreground">This is your personal dashboard for your legal cases.</p>
+                        <Button asChild>
+                            <Link href="/client-dashboard/intake">Start a New Case</Link>
+                        </Button>
                     </CardContent>
                 </Card>
             </div>
