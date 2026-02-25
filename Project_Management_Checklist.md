@@ -12,11 +12,11 @@ This document serves as the step-by-step roadmap for building the MVP of the Leg
 - [ ] Implement robust error monitoring and logging (e.g., Sentry).
 
 ## Phase 2: Design System & Shared Components (Frontend)
-- [ ] Install component library (e.g., shadcn/ui or Radix UI).
-- [ ] Define color palette, typography, and spacing variables in Tailwind config.
-- [ ] Build reusable UI components (Buttons, Inputs, Modals, Cards, Tables, Navbars).
+- [x] Install component library (e.g., shadcn/ui or Radix UI).
+- [x] Define color palette, typography, and spacing variables in Tailwind config.
+- [x] Build reusable UI components (Buttons, Inputs, Modals, Cards, Tables, Navbars).
 - [ ] Implement dark/light mode toggle (optional but recommended for modern apps).
-- [ ] Create layout wrappers for authenticated vs. unauthenticated pages.
+- [x] Create layout wrappers for authenticated vs. unauthenticated pages.
 
 ## Phase 3: Authentication & Authorization (Core)
 - [ ] Integrate Authentication provider (e.g., Supabase Auth, Firebase Auth, NextAuth).
