@@ -33,7 +33,7 @@ This document serves as the step-by-step roadmap for building the MVP of the Leg
 - [x] Build API endpoints for Case Intake (POST /intake).
 - [x] Integrate SMS/USSD provider (e.g., Africa's Talking) for low-tech intake (Prisoners).
 - [x] Create API webhook to receive SMS/USSD inputs and auto-generate basic prisoner case profiles.
-- [ ] Develop internal Intake Form for NGO volunteers/Admins to manage prisoner digital files.
+- [x] Develop internal Intake Form for NGO volunteers/Admins to manage prisoner digital files.
 - [x] Develop DIY Intake Form for Private Track Clients (SMEs/Diaspora).
 
 ## Phase 5: Secondary Core - Commercial Case & Legal Project Management
