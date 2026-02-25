@@ -1,0 +1,110 @@
+Legal  Tech  App   Legal  tech  app  aimed  at  granting  easy  access  to  lawyers  to  prisoners.  Since  it's  a  nigerian  
+prison,
+ 
+for
+ 
+prisoners,it'll
+ 
+be
+ 
+low-tech
+ 
+,maybe
+ 
+text
+ 
+a
+ 
+code
+ 
+for
+ 
+a
+ 
+start
+ 
+and
+ 
+it
+ 
+goes
+ 
+to
+ 
+our
+ 
+backend
+ 
+and
+ 
+we
+ 
+receive
+ 
+it
+ 
+on
+ 
+our
+ 
+dashboard.
+ 
+  To  make  it  more  sustainable  for  revenue,  we  will  also  make  it  a  case  management  
+application
+ 
+for
+ 
+lawyers,
+ 
+court,judges,etc.
+ 
+But
+ 
+we'll
+ 
+take
+ 
+it
+ 
+step
+ 
+by
+ 
+step,first
+ 
+with
+ 
+lawyers.
+  🚀  Lean  Web  App  MVP  (With  Case  Management)  Core  Features  (Phase  1  MVP)  Case  Intake  &  Registration  Prisoner/family/volunteer  submits  prisoner’s  details  (name,  location,  charges  if  known).  Digital  prisoner  file  created.  Lawyer  Dashboard  See  available  prisoner  cases.  Assign  themselves  to  cases.  Update  case  status  (Filed  in  court,  Adjourned,  Judgement  delivered).  Case  Management  Module  (Lightweight)  Timeline  view  for  each  case  (arrest  →  hearing  →  appeal).  Upload  key  documents  (charge  sheet,  bail  application,  ruling).  Notes/comments  section  for  lawyer  &  volunteer.  Volunteer  /  Law  Student  Portal  Assist  with  data  entry,  follow-up  calls,  scheduling.  Gain  supervised  experience.  Notifications  Prisoner/family  can  check  status  via  SMS  shortcode/WhatsApp  bot.  Lawyer  gets  reminders  (next  hearing  dates,  deadlines).   ⚖  Dual-Track  Case  Management  1.  Prisoner  Legal  Aid  (NGO  Track  –  Free  /  Sponsored)  Focus:  Detainees  without  trial,  pro  bono  representation.  Funding:  Grants,  donations,  CSR,  government  partnerships.  Users:  Volunteers,  NGOs,  human  rights  lawyers.  Case  Flow:  Arrest  →  Intake  →  Lawyer  Assigned  →  Case  Tracked  →  Resolution.  Value:  Social  impact  +  data  for  systemic  reform.  2.  Private  Case  Management  (Paid  Track  –  Revenue  Generator)  Focus:  Individuals  &  SMEs  who  want  to  track  their  own  civil,  commercial,  family,  or  criminal  
+cases
+ 
+digitally.
+ Features:  Timeline  of  hearings  and  deadlines.  Digital  storage  of  court  documents  (rulings,  motions,  affidavits).  Automated  reminders  via  SMS/WhatsApp.  Lawyer-client  communication  hub.  Optional  video  consultations.  Pricing  Models:  Subscription:  ₦2,000–₦5,000/month  per  individual  client.  Pay-per-case:  ₦10,000–₦20,000  one-time  fee  for  digitized  tracking.  
+
+Firm  package:  ₦50,000+/month  for  law  firms  managing  20+  clients.  Value  to  paying  users:  ✅  No  missed  court  dates  (reminders).  ✅  Transparency  —  clients  see  progress  instead  of  chasing  lawyers.  ✅  Secure  recordkeeping  of  all  case  files.  ✅  Access  to  vetted  lawyers  if  needed.   ⚙  User  Flows  for  Case  Management  1.  Client-First  Upload  (DIY  mode)  SMEs,  diaspora  Nigerians,  or  individuals  sign  up  directly.  They  upload  their  case  details,  scanned  documents,  court  summons,  lawyer’s  info.  The  system  organizes  it  for  them.  If  they  already  have  a  lawyer,  they  can  invite  the  lawyer  to  the  platform  (optional).  ✅  Pro:  Works  even  if  lawyers  resist  joining.  ❌  Con:  Clients  may  not  always  have  time  or  ability  to  upload  documents  correctly.  2.  Lawyer-First  Upload  (Professional  mode)  Law  firms  subscribe.  They  use  the  platform  to  manage  all  their  cases  and  clients,  uploading  documents,  hearing  
+dates,
+ 
+and
+ 
+updates.
+ Clients  (SMEs,  diaspora,  prisoners  via  NGO)  are  given  view-only  or  limited  access  to  track  
+progress.
+ ✅  Pro:  Reduces  workload  for  clients,  keeps  lawyers  in  control.  ❌  Con:  Depends  heavily  on  lawyers  being  willing  to  change  habits.  3.  Hybrid  Mode  (Best  Fit  for  Nigeria  󰐕 )  Clients  can  start  the  case  profile  themselves  (basic  info  only).  The  system  then  notifies  their  lawyer  (if  they  have  one)  to  take  over  and  upload  official  
+documents.
+ If  the  client  doesn’t  have  a  lawyer,  the  platform  can  connect  them  with  one  (this  is  where  
+your
+ 
+NGO/legal
+ 
+aid
+ 
+feature
+ 
+comes
+ 
+in).
+ ✅  Pro:  Balances  control  —  clients  stay  informed,  lawyers  handle  the  technical  stuff.  ✅  Pro:  Strong  fit  for  SMEs  and  diaspora  (who  just  want  updates),  but  still  valuable  for  law  
+firms.
+ 🔑  Why  This  Works  SMEs:  Would  likely  delegate  upload  to  their  company  lawyer  (but  still  want  oversight).  Diaspora:  Would  sign  up  themselves  and  then  either  (a)  upload  docs  or  (b)  connect  their  
+lawyer.
+ Lawyers:  Get  incentives  to  join  because  it  doubles  as  a  law  practice  management  tool.  Prisoners/NGO:  Your  NGO  team  does  the  uploading  on  their  behalf.   
