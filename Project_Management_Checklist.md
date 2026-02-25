@@ -3,12 +3,12 @@
 This document serves as the step-by-step roadmap for building the MVP of the Legal Tech App.
 
 ## Phase 1: Project Scaffolding & Setup
-- [ ] Initialize frontend application (Next.js with TypeScript and TailwindCSS).
-- [ ] Initialize backend application (Node.js/Express or Python/FastAPI) *OR* set up Backend-as-a-Service (Supabase/Firebase).
-- [ ] Set up the database schema based on the Technical Requirements (PostgreSQL).
-- [ ] Configure Git repository, linking frontend and backend (if monolithic) or setting up monorepo/separate repos.
+- [x] Initialize frontend application (Next.js with TypeScript and TailwindCSS).
+- [x] Initialize backend application (Node.js/Express or Python/FastAPI) *OR* set up Backend-as-a-Service (Supabase/Firebase).
+- [x] Set up the database schema based on the Technical Requirements (PostgreSQL).
+- [x] Configure Git repository, linking frontend and backend (if monolithic) or setting up monorepo/separate repos.
 - [ ] Set up CI/CD pipelines (GitHub Actions) for automated testing and deployment.
-- [ ] Configure environment variables for development, staging, and production.
+- [x] Configure environment variables for development, staging, and production.
 - [ ] Implement robust error monitoring and logging (e.g., Sentry).
 
 ## Phase 2: Design System & Shared Components (Frontend)
